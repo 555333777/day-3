@@ -99,3 +99,62 @@
     }
   ]
 }
+Skip to content
+555333777
+/
+Day-3-loops
+Private
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+Settings
+Day-3-loops/Readme file day 3
+@555333777
+555333777 This is a Readme file
+ 1 contributor
+26 lines (17 sloc)  420 Bytes
+ Var numbers =[ 10,20,30,40,50]
+for( var I=0;i<numbers.length;I++){
+Console.log(numbers[I])
+}
+
+
+
+Var person={ 
+   fname:"Nick"
+   Iname:Siva",
+     age:26
+};
+for (let y in person){
+
+Console.log(y +":"+person [y])
+}
+
+
+
+Var names=["Siva","Prabhu","Anand","elavarasan","sukumar"];
+
+names.foreach(function);
+function function 1( current value.index){
+
+Console.log("index in array is :"+index+":value is:"+(current value);
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Day-3-loops/Readme file day 3 at main · 555333777/Day-3-loops
